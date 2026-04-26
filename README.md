@@ -1,4 +1,4 @@
 # apnacollege-demo
 learn Git From Apna College
 
-learn Git and GitHub from apna college
+Learn From Apna College Git and Github
